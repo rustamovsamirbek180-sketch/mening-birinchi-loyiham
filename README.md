@@ -1,2 +1,4 @@
-# Mening birinchi loyiham
-Git va GitHub darslari uchun amaliy vazifa.
+<h1>mening loiham</h1>
+<br>
+<hr>
+<h3>hammaga saolom </h3>
